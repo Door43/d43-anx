@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[anx:home|Door43 (anx)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-anx|d43-anx repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-anx/archive/master.zip|d43-anx.zip]]
+
+**Recent Changes**
+{{changes>ns = anx}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/anx|Ethnologue data]]
+
